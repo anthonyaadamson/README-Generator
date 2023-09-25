@@ -1,3 +1,15 @@
+# README Markdown Generator
+
+Simply use your terminal to answer a few questions and recieve a README.md in your directory. 
+This will ask simple questions such as the Title of you application. The description of your application
+Where to ask questions such as your github profile or your email. 
+This application will also ask you how others can contribute to your project.
+
+In the README.md you can use the table of contents to navigate to specific portions of your README.md
+
+# Screenshot
+![Completed Questionaire to create README.md](image.png)
+
 # 09 Node.js Challenge: Professional README Generator
 
 ## Your Task
